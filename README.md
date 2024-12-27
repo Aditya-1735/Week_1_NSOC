@@ -4,7 +4,7 @@
 
 A simple and fun card matching game built using HTML, CSS, and JavaScript. The objective of the game is to match all pairs of cards. This project incorporates elements from IIT Patna, adding a unique touch to the game.
 
-## <b> [Click here to Play the GAME!!](https://aditya-1735.github.io/IIT-Patna-Memory-Game/)
+## <b> [Click here to Play the GAME!!](https://aditya-1735.github.io/Week_1_NSOC/)
 
 
 ![346351356-e5d92f20-26fe-4deb-bda7-c3b2694f1d9f](https://github.com/Aditya-1735/IIT-Patna-Memory-Game/assets/102727457/acb52b47-1438-4580-ada8-bf151ce7a5e6)
